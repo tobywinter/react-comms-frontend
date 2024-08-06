@@ -2,6 +2,14 @@
 
 This project is a React application that uses TypeScript and Vite as a build tool.
 
+## Backend - Pre-requisite
+
+The application relies on it's backend to be running locally, you must have the backend API running on `http://localhost:3000`.
+
+You can download the backend code here: [https://github.com/tobywinter/nestjs-comms-backend](https://github.com/tobywinter/nestjs-comms-backend).
+
+Please ensure that the backend API is running before attempting to run the frontend.
+
 To run the project, follow these steps:
 
 1. Install yarn on your machine if you haven't already.
